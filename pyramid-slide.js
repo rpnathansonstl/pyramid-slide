@@ -66,6 +66,7 @@ function drawPyramid(height) {
     }
 }
 
-  function outputUpdate(hgt) {
-     document.querySelector('#number').value = hgt;
-}
+
+  // function outputUpdate(hgt) {
+  //    document.querySelector('#number').value = hgt;
+// }
